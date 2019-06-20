@@ -1,0 +1,9 @@
+Touch.js 是移动设备上的手势识别与事件库, 由百度云Clouda团队维护，也是在百度内部广泛使用的开发工具。 
+Touch.js手势库专为移动设备设计。 
+Touch.js对于网页设计师来说，是一款不错的辅助工具，可以减少很多写框架控制器的时间。 
+网页合理使用Touch.js不但能增加网页的美观感，而且在节约时间，减少人力投入也有极大的帮助。
+
+Touch.js官网： https://www.awesomes.cn/repo/Clouda-team/touchjs 
+github：https://github.com/Clouda-team/touchjs 
+加载CND库：<script src="http://code.baidu.com/touch-0.2.14.min.js"></script> 
+官方API：http://cloudajs.org/docs/step4_API_Documentation#h2_7
